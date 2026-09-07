@@ -1,2 +1,0 @@
-# FastBite_POS
-VIRTUAL FOOD POS (SIMPLE)
